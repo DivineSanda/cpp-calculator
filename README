@@ -1,0 +1,20 @@
+# Simple Calculator in C++
+
+ *Description
+This project is a basic calculator built using C++ functions.
+It performs addition, subtraction, multiplication, and division.
+
+*Concepts Used
+- Functions
+- If-else statements
+- User input and output
+- Return values
+
+*How It Works
+1. The user enters two numbers.
+2. The user chooses an operator (+, -, *, /).
+3. The program calls the corresponding function.
+4. The result is displayed.
+
+Author
+Divine Sanda
